@@ -1,0 +1,15 @@
+/home/batten/Septimo semestre/Escalabilidad/DDDProject/DDDProject.Application/bin/Debug/net8.0/DDDProject.Application.deps.json
+/home/batten/Septimo semestre/Escalabilidad/DDDProject/DDDProject.Application/bin/Debug/net8.0/DDDProject.Application.dll
+/home/batten/Septimo semestre/Escalabilidad/DDDProject/DDDProject.Application/bin/Debug/net8.0/DDDProject.Application.pdb
+/home/batten/Septimo semestre/Escalabilidad/DDDProject/DDDProject.Application/bin/Debug/net8.0/DDDProject.Domain.dll
+/home/batten/Septimo semestre/Escalabilidad/DDDProject/DDDProject.Application/bin/Debug/net8.0/DDDProject.Domain.pdb
+/home/batten/Septimo semestre/Escalabilidad/DDDProject/DDDProject.Application/obj/Debug/net8.0/DDDProject.Application.csproj.AssemblyReference.cache
+/home/batten/Septimo semestre/Escalabilidad/DDDProject/DDDProject.Application/obj/Debug/net8.0/DDDProject.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/batten/Septimo semestre/Escalabilidad/DDDProject/DDDProject.Application/obj/Debug/net8.0/DDDProject.Application.AssemblyInfoInputs.cache
+/home/batten/Septimo semestre/Escalabilidad/DDDProject/DDDProject.Application/obj/Debug/net8.0/DDDProject.Application.AssemblyInfo.cs
+/home/batten/Septimo semestre/Escalabilidad/DDDProject/DDDProject.Application/obj/Debug/net8.0/DDDProject.Application.csproj.CoreCompileInputs.cache
+/home/batten/Septimo semestre/Escalabilidad/DDDProject/DDDProject.Application/obj/Debug/net8.0/DDDProje.FEBA4640.Up2Date
+/home/batten/Septimo semestre/Escalabilidad/DDDProject/DDDProject.Application/obj/Debug/net8.0/DDDProject.Application.dll
+/home/batten/Septimo semestre/Escalabilidad/DDDProject/DDDProject.Application/obj/Debug/net8.0/refint/DDDProject.Application.dll
+/home/batten/Septimo semestre/Escalabilidad/DDDProject/DDDProject.Application/obj/Debug/net8.0/DDDProject.Application.pdb
+/home/batten/Septimo semestre/Escalabilidad/DDDProject/DDDProject.Application/obj/Debug/net8.0/ref/DDDProject.Application.dll

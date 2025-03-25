@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  api:
+    build:
+      context: .
+      dockerfile: DDDProject.API/Dockerfile
+    ports:
+      - "5000:80"
+    volumes:
+      - ./products.db:/app/products.db
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development

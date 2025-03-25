@@ -1,0 +1,17 @@
+/home/batten/Septimo semestre/Escalabilidad/DDDProject/DDDProject.Infrastructure/bin/Debug/net8.0/DDDProject.Infrastructure.deps.json
+/home/batten/Septimo semestre/Escalabilidad/DDDProject/DDDProject.Infrastructure/bin/Debug/net8.0/DDDProject.Infrastructure.dll
+/home/batten/Septimo semestre/Escalabilidad/DDDProject/DDDProject.Infrastructure/bin/Debug/net8.0/DDDProject.Infrastructure.pdb
+/home/batten/Septimo semestre/Escalabilidad/DDDProject/DDDProject.Infrastructure/bin/Debug/net8.0/DDDProject.Domain.dll
+/home/batten/Septimo semestre/Escalabilidad/DDDProject/DDDProject.Infrastructure/bin/Debug/net8.0/DDDProject.Domain.pdb
+/home/batten/Septimo semestre/Escalabilidad/DDDProject/DDDProject.Infrastructure/obj/Debug/net8.0/DDDProject.Infrastructure.csproj.AssemblyReference.cache
+/home/batten/Septimo semestre/Escalabilidad/DDDProject/DDDProject.Infrastructure/obj/Debug/net8.0/DDDProject.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/batten/Septimo semestre/Escalabilidad/DDDProject/DDDProject.Infrastructure/obj/Debug/net8.0/DDDProject.Infrastructure.AssemblyInfoInputs.cache
+/home/batten/Septimo semestre/Escalabilidad/DDDProject/DDDProject.Infrastructure/obj/Debug/net8.0/DDDProject.Infrastructure.AssemblyInfo.cs
+/home/batten/Septimo semestre/Escalabilidad/DDDProject/DDDProject.Infrastructure/obj/Debug/net8.0/DDDProject.Infrastructure.csproj.CoreCompileInputs.cache
+/home/batten/Septimo semestre/Escalabilidad/DDDProject/DDDProject.Infrastructure/obj/Debug/net8.0/DDDProje.8EC9D92F.Up2Date
+/home/batten/Septimo semestre/Escalabilidad/DDDProject/DDDProject.Infrastructure/obj/Debug/net8.0/DDDProject.Infrastructure.dll
+/home/batten/Septimo semestre/Escalabilidad/DDDProject/DDDProject.Infrastructure/obj/Debug/net8.0/refint/DDDProject.Infrastructure.dll
+/home/batten/Septimo semestre/Escalabilidad/DDDProject/DDDProject.Infrastructure/obj/Debug/net8.0/DDDProject.Infrastructure.pdb
+/home/batten/Septimo semestre/Escalabilidad/DDDProject/DDDProject.Infrastructure/obj/Debug/net8.0/ref/DDDProject.Infrastructure.dll
+/home/batten/Septimo semestre/Escalabilidad/DDDProject/DDDProject.Infrastructure/bin/Debug/net8.0/DDDProject.Infrastructure.runtimeconfig.json
+/home/batten/Septimo semestre/Escalabilidad/DDDProject/DDDProject.Infrastructure/obj/Debug/net8.0/DDDProject.Infrastructure.genruntimeconfig.cache

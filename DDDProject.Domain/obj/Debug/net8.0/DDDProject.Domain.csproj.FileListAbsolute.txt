@@ -1,0 +1,11 @@
+/home/batten/Septimo semestre/Escalabilidad/DDDProject/DDDProject.Domain/bin/Debug/net8.0/DDDProject.Domain.deps.json
+/home/batten/Septimo semestre/Escalabilidad/DDDProject/DDDProject.Domain/bin/Debug/net8.0/DDDProject.Domain.dll
+/home/batten/Septimo semestre/Escalabilidad/DDDProject/DDDProject.Domain/bin/Debug/net8.0/DDDProject.Domain.pdb
+/home/batten/Septimo semestre/Escalabilidad/DDDProject/DDDProject.Domain/obj/Debug/net8.0/DDDProject.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/batten/Septimo semestre/Escalabilidad/DDDProject/DDDProject.Domain/obj/Debug/net8.0/DDDProject.Domain.AssemblyInfoInputs.cache
+/home/batten/Septimo semestre/Escalabilidad/DDDProject/DDDProject.Domain/obj/Debug/net8.0/DDDProject.Domain.AssemblyInfo.cs
+/home/batten/Septimo semestre/Escalabilidad/DDDProject/DDDProject.Domain/obj/Debug/net8.0/DDDProject.Domain.csproj.CoreCompileInputs.cache
+/home/batten/Septimo semestre/Escalabilidad/DDDProject/DDDProject.Domain/obj/Debug/net8.0/DDDProject.Domain.dll
+/home/batten/Septimo semestre/Escalabilidad/DDDProject/DDDProject.Domain/obj/Debug/net8.0/refint/DDDProject.Domain.dll
+/home/batten/Septimo semestre/Escalabilidad/DDDProject/DDDProject.Domain/obj/Debug/net8.0/DDDProject.Domain.pdb
+/home/batten/Septimo semestre/Escalabilidad/DDDProject/DDDProject.Domain/obj/Debug/net8.0/ref/DDDProject.Domain.dll
